@@ -41,12 +41,12 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
     - Create the table that your api will be using. Example using psql:
 
       ```sql
-      CREATE TABLE items (
+      CREATE TABLE users (
           id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
-      name VARCHAR(50) NOT NULL,
-      email VARCHAR(100) NOT NULL UNIQUE,
-      age INTEGER NOT NULL,
-      address VARCHAR(100)
+          name VARCHAR(50) NOT NULL,
+          email VARCHAR(100) NOT NULL UNIQUE,
+          age INTEGER NOT NULL,
+          address VARCHAR(100)
       );
       ```
 
