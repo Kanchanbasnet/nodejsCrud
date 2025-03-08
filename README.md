@@ -66,7 +66,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 
   - Retrieves a list of all users.
 
-- **GET api/users/:id:**
+- **GET /api/users/:id:**
 
   - Retrieves a specific user by ID.
 
@@ -74,7 +74,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 
   - Creates a new user.
 
-- **PATCH api/users/:id:**
+- **PATCH /api/users/:id:**
 
   - Updates an existing user by ID.
 
