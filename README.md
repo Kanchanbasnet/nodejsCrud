@@ -13,8 +13,8 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 1.  **Clone the repository:**
 
     ```bash
-    git clone <git@github.com:Kanchanbasnet/nodejsCrud.git>
-    cd <nodejsCrud>
+    git clone git@github.com:Kanchanbasnet/nodejsCrud.git
+    cd nodejsCrud
     ```
 
 2.  **Install dependencies:**
