@@ -78,5 +78,5 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 
   - Updates an existing user by ID.
 
-- **DELETE api/users/:id:**
+- **DELETE /api/users/:id:**
   - Deletes a user by ID.
