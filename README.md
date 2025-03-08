@@ -53,7 +53,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 4.  **Run the application:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
     The application will be running at `http://localhost:<PORT>`.
