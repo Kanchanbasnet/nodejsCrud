@@ -60,8 +60,6 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 
 ## API Endpoints
 
-### Items (Example)
-
 - **GET /api/users:**
 
   - Retrieves a list of all users.
